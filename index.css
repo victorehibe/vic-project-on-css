@@ -1,0 +1,45 @@
+body{
+    background-color:rgba(54, 224, 20, 0.539);
+}
+h1{
+    color: rgb(255, 6, 6);
+    text-decoration-line:underline ;
+    background-color: darkgrey;
+    text-shadow: 2px 2px 2px;
+}
+h4{
+    color: indigo;
+    background-color: aliceblue;
+}
+p{
+    color: blue;
+    background-color: aliceblue;
+    text-shadow: 1px 1px 1px;
+}
+ img{
+    border-radius: 150px;
+    width: 200px;
+    height: 200px;
+    margin-bottom: 80px;
+ }
+ h2{
+    color: fuchsia;
+    text-shadow: 1px 1px 1px;
+    text-decoration:aqua;
+ }
+ input{
+    color: blue;
+    text-shadow: 1px 1px 1px;
+ }
+ label{
+    color: brown;
+    background-color: rgba(255, 217, 0, 0.53);
+    text-shadow: 1px 1px 1px;
+ }
+ select{
+    color: red;
+    text-shadow: 1px 1px 1px;
+ }
+.tr{
+    color: blue;
+}
